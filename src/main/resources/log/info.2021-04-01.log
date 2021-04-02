@@ -1,0 +1,6 @@
+2021-04-01 23:05:51,271 - Starting LoggerTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 4964 (started by Elwood in D:\Projects\sell)
+2021-04-01 23:05:51,274 - No active profile set, falling back to default profiles: default
+2021-04-01 23:05:52,082 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-01 23:05:52,314 - Started LoggerTest in 1.332 seconds (JVM running for 2.108)
+2021-04-01 23:05:52,450 - name:wjc,password:123
+2021-04-01 23:05:52,464 - Shutting down ExecutorService 'applicationTaskExecutor'
