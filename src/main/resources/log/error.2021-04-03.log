@@ -1,0 +1,6 @@
+2021-04-03 10:37:08,827 - Incorrect string value: '\xE5\xB9\x95\xE8\xAF\xBE...' for column 'buyer_address' at row 1
+2021-04-03 10:55:54,720 - Incorrect string value: '\xE7\x9A\xAE\xE8\x9B\x8B...' for column 'product_name' at row 1
+2021-04-03 10:56:13,802 - Incorrect string value: '\xE7\x9A\xAE\xE8\x9B\x8B...' for column 'product_name' at row 1
+2021-04-03 21:19:59,298 - 【完结订单】订单状态不正确, orderId=1617440820575921447, orderStatus=0
+2021-04-03 21:21:38,745 - 【完结订单】订单状态不正确, orderId=1617440820575921447, orderStatus=0
+2021-04-03 21:31:50,733 - 【订单支付完成】订单支付状态不正确, orderDTO=OrderDTO(orderId=1617440820575921447, buyerName=廖师兄, buyerPhone=123456789012, buyerAddress=幕课网, buyerOpenid=110110, orderAmount=9.60, orderStatus=0, payStatus=0, createTime=2021-04-03 17:07:02.0, updateTime=2021-04-03 21:31:14.0, orderDetailList=[OrderDetail(detailId=1617440820874528256, orderId=1617440820575921447, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=1, productIcon=http://xxxxx.jpg), OrderDetail(detailId=1617440821015560068, orderId=1617440820575921447, productId=123457, productName=皮皮虾, productPrice=3.20, productQuantity=2, productIcon=http://xxxxx.jpg)])

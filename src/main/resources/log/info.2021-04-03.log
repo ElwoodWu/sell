@@ -1,0 +1,912 @@
+2021-04-03 10:37:00,457 - Starting OrderMasterRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 4052 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:37:00,460 - No active profile set, falling back to default profiles: default
+2021-04-03 10:37:01,238 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:37:01,332 - Finished Spring Data repository scanning in 74 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:37:01,816 - HikariPool-1 - Starting...
+2021-04-03 10:37:03,734 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:37:03,770 - HikariPool-1 - Start completed.
+2021-04-03 10:37:03,839 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:37:03,921 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:37:04,107 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:37:04,508 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:37:05,296 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:37:05,320 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:37:06,688 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:37:06,891 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:37:07,276 - Started OrderMasterRepositoryTest in 7.486 seconds (JVM running for 9.25)
+2021-04-03 10:37:08,826 - SQL Error: 1366, SQLState: HY000
+2021-04-03 10:37:08,922 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:37:08,924 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:37:08,929 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:37:08,944 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:40:11,165 - Starting OrderMasterRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11500 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:40:11,167 - No active profile set, falling back to default profiles: default
+2021-04-03 10:40:11,690 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:40:11,757 - Finished Spring Data repository scanning in 52 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:40:12,168 - HikariPool-1 - Starting...
+2021-04-03 10:40:20,853 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:40:20,913 - HikariPool-1 - Start completed.
+2021-04-03 10:40:20,976 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:40:21,026 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:40:21,150 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:40:21,439 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:40:21,963 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:40:21,972 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:40:23,589 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:40:23,749 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:40:24,077 - Started OrderMasterRepositoryTest in 13.312 seconds (JVM running for 14.207)
+2021-04-03 10:40:29,671 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:40:29,672 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:40:29,674 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:40:38,850 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:40:58,279 - Starting OrderMasterRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 2528 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:40:58,280 - No active profile set, falling back to default profiles: default
+2021-04-03 10:40:58,790 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:40:58,860 - Finished Spring Data repository scanning in 56 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:40:59,497 - HikariPool-1 - Starting...
+2021-04-03 10:40:59,852 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:40:59,887 - HikariPool-1 - Start completed.
+2021-04-03 10:40:59,940 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:40:59,991 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:41:00,113 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:41:00,406 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:41:01,010 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:41:01,021 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:41:05,974 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:41:06,182 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:41:06,562 - Started OrderMasterRepositoryTest in 8.669 seconds (JVM running for 9.623)
+2021-04-03 10:41:06,951 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:41:06,952 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:41:06,954 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:41:06,962 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:46:20,830 - Starting OrderMasterRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 5560 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:46:20,832 - No active profile set, falling back to default profiles: default
+2021-04-03 10:46:21,417 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:46:21,490 - Finished Spring Data repository scanning in 63 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:46:22,219 - HikariPool-1 - Starting...
+2021-04-03 10:46:23,670 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:46:23,713 - HikariPool-1 - Start completed.
+2021-04-03 10:46:23,770 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:46:23,834 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:46:23,966 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:46:25,754 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:46:26,321 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:46:26,330 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:46:27,240 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:46:27,456 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:46:27,929 - Started OrderMasterRepositoryTest in 7.824 seconds (JVM running for 9.797)
+2021-04-03 10:48:28,330 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m4s511ms897µs700ns).
+2021-04-03 10:48:28,355 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:48:28,356 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:48:28,359 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:48:28,608 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:48:43,503 - Starting OrderMasterRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11352 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:48:43,505 - No active profile set, falling back to default profiles: default
+2021-04-03 10:48:44,062 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:48:44,137 - Finished Spring Data repository scanning in 66 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:48:44,648 - HikariPool-1 - Starting...
+2021-04-03 10:48:45,986 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:48:46,027 - HikariPool-1 - Start completed.
+2021-04-03 10:48:46,083 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:48:46,136 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:48:46,273 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:48:46,618 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:48:47,198 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:48:47,208 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:48:48,869 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:48:49,111 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:48:49,637 - Started OrderMasterRepositoryTest in 6.564 seconds (JVM running for 7.749)
+2021-04-03 10:49:33,869 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s730ms193µs100ns).
+2021-04-03 10:49:33,892 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:49:33,892 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:49:33,894 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:49:33,916 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:49:38,167 - Starting OrderMasterRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 2196 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:49:38,169 - No active profile set, falling back to default profiles: default
+2021-04-03 10:49:38,754 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:49:38,825 - Finished Spring Data repository scanning in 63 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:49:39,318 - HikariPool-1 - Starting...
+2021-04-03 10:49:40,819 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:49:40,855 - HikariPool-1 - Start completed.
+2021-04-03 10:49:40,936 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:49:41,014 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:49:41,157 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:49:41,752 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:49:42,479 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:49:42,489 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:49:47,317 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:49:47,609 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:49:48,135 - Started OrderMasterRepositoryTest in 10.406 seconds (JVM running for 11.618)
+2021-04-03 10:50:44,425 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s465ms416µs300ns).
+2021-04-03 10:50:44,451 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:50:44,452 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:50:44,454 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:50:44,459 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:50:49,241 - Starting OrderMasterRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 13784 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:50:49,242 - No active profile set, falling back to default profiles: default
+2021-04-03 10:50:49,832 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:50:49,905 - Finished Spring Data repository scanning in 59 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:50:50,640 - HikariPool-1 - Starting...
+2021-04-03 10:50:51,093 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:50:51,142 - HikariPool-1 - Start completed.
+2021-04-03 10:50:51,194 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:50:51,252 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:50:51,409 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:50:51,746 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:50:52,333 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:50:52,342 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:50:53,147 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:50:53,327 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:50:53,684 - Started OrderMasterRepositoryTest in 4.835 seconds (JVM running for 5.822)
+2021-04-03 10:50:54,214 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:50:54,215 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:50:54,216 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:50:54,345 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:55:47,161 - Starting OrderDetailRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 4928 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:55:47,167 - No active profile set, falling back to default profiles: default
+2021-04-03 10:55:48,022 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:55:48,119 - Finished Spring Data repository scanning in 85 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:55:48,635 - HikariPool-1 - Starting...
+2021-04-03 10:55:49,225 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:55:49,588 - HikariPool-1 - Start completed.
+2021-04-03 10:55:49,683 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:55:49,778 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:55:49,960 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:55:51,589 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:55:52,155 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:55:52,164 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:55:53,420 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:55:53,717 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:55:54,067 - Started OrderDetailRepositoryTest in 7.445 seconds (JVM running for 8.479)
+2021-04-03 10:55:54,720 - SQL Error: 1366, SQLState: HY000
+2021-04-03 10:55:54,814 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:55:54,815 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:55:54,817 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:55:59,936 - HikariPool-1 - Shutdown completed.
+2021-04-03 10:56:07,863 - Starting OrderDetailRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11560 (started by Elwood in D:\Projects\sell)
+2021-04-03 10:56:07,865 - No active profile set, falling back to default profiles: default
+2021-04-03 10:56:08,593 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 10:56:08,659 - Finished Spring Data repository scanning in 58 ms. Found 4 JPA repository interfaces.
+2021-04-03 10:56:09,099 - HikariPool-1 - Starting...
+2021-04-03 10:56:09,819 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 10:56:09,916 - HikariPool-1 - Start completed.
+2021-04-03 10:56:09,984 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 10:56:10,049 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 10:56:10,189 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 10:56:10,791 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 10:56:11,357 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 10:56:11,371 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:56:12,582 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 10:56:12,848 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:56:13,453 - Started OrderDetailRepositoryTest in 6.309 seconds (JVM running for 7.381)
+2021-04-03 10:56:13,802 - SQL Error: 1366, SQLState: HY000
+2021-04-03 10:56:13,909 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 10:56:13,909 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 10:56:13,911 - HikariPool-1 - Shutdown initiated...
+2021-04-03 10:56:13,926 - HikariPool-1 - Shutdown completed.
+2021-04-03 11:01:48,064 - Starting OrderDetailRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 9212 (started by Elwood in D:\Projects\sell)
+2021-04-03 11:01:48,065 - No active profile set, falling back to default profiles: default
+2021-04-03 11:01:48,571 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 11:01:48,647 - Finished Spring Data repository scanning in 68 ms. Found 4 JPA repository interfaces.
+2021-04-03 11:01:49,092 - HikariPool-1 - Starting...
+2021-04-03 11:01:51,923 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 11:01:51,974 - HikariPool-1 - Start completed.
+2021-04-03 11:01:52,024 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 11:01:52,081 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 11:01:52,202 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 11:01:52,493 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 11:01:52,997 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 11:01:53,005 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 11:01:53,516 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 11:01:53,689 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 11:01:54,020 - Started OrderDetailRepositoryTest in 6.349 seconds (JVM running for 7.215)
+2021-04-03 11:01:54,891 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 11:01:54,892 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 11:01:54,894 - HikariPool-1 - Shutdown initiated...
+2021-04-03 11:01:55,673 - HikariPool-1 - Shutdown completed.
+2021-04-03 11:02:07,587 - Starting OrderDetailRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 7372 (started by Elwood in D:\Projects\sell)
+2021-04-03 11:02:07,589 - No active profile set, falling back to default profiles: default
+2021-04-03 11:02:08,199 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 11:02:08,274 - Finished Spring Data repository scanning in 66 ms. Found 4 JPA repository interfaces.
+2021-04-03 11:02:08,753 - HikariPool-1 - Starting...
+2021-04-03 11:02:14,858 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 11:02:14,908 - HikariPool-1 - Start completed.
+2021-04-03 11:02:14,961 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 11:02:15,011 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 11:02:15,132 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 11:02:15,425 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 11:02:15,921 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 11:02:15,930 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 11:02:16,475 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 11:02:16,654 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 11:02:16,978 - Started OrderDetailRepositoryTest in 9.855 seconds (JVM running for 10.782)
+2021-04-03 11:02:17,793 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 11:02:17,793 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 11:02:17,795 - HikariPool-1 - Shutdown initiated...
+2021-04-03 11:02:25,635 - HikariPool-1 - Shutdown completed.
+2021-04-03 11:05:59,117 - Starting OrderDetailRepositoryTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 5748 (started by Elwood in D:\Projects\sell)
+2021-04-03 11:05:59,119 - No active profile set, falling back to default profiles: default
+2021-04-03 11:05:59,764 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 11:05:59,855 - Finished Spring Data repository scanning in 76 ms. Found 4 JPA repository interfaces.
+2021-04-03 11:06:00,408 - HikariPool-1 - Starting...
+2021-04-03 11:06:03,622 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 11:06:03,774 - HikariPool-1 - Start completed.
+2021-04-03 11:06:03,833 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 11:06:03,886 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 11:06:04,017 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 11:06:04,635 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 11:06:05,193 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 11:06:05,202 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 11:06:06,394 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 11:06:06,598 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 11:06:06,979 - Started OrderDetailRepositoryTest in 8.379 seconds (JVM running for 9.691)
+2021-04-03 11:06:07,738 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 11:06:07,738 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 11:06:07,741 - HikariPool-1 - Shutdown initiated...
+2021-04-03 11:06:09,591 - HikariPool-1 - Shutdown completed.
+2021-04-03 16:58:33,925 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 12816 (started by Elwood in D:\Projects\sell)
+2021-04-03 16:58:33,927 - No active profile set, falling back to default profiles: default
+2021-04-03 16:58:34,538 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 16:58:34,658 - Finished Spring Data repository scanning in 111 ms. Found 4 JPA repository interfaces.
+2021-04-03 16:58:35,338 - HikariPool-1 - Starting...
+2021-04-03 16:58:35,803 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 16:58:35,879 - HikariPool-1 - Start completed.
+2021-04-03 16:58:35,941 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 16:58:36,018 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 16:58:36,193 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 16:58:36,607 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 16:58:37,241 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 16:58:37,254 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 16:58:38,209 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 16:58:38,464 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 16:58:38,802 - Started OrderServiceImplTest in 5.313 seconds (JVM running for 6.278)
+2021-04-03 16:58:39,440 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 16:58:39,441 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 16:58:39,443 - HikariPool-1 - Shutdown initiated...
+2021-04-03 16:58:39,461 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:02:13,053 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 1260 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:02:13,056 - No active profile set, falling back to default profiles: default
+2021-04-03 17:02:13,596 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:02:13,669 - Finished Spring Data repository scanning in 59 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:02:14,129 - HikariPool-1 - Starting...
+2021-04-03 17:02:20,715 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:02:20,760 - HikariPool-1 - Start completed.
+2021-04-03 17:02:20,813 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:02:20,862 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:02:20,984 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:02:21,286 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:02:21,799 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:02:21,809 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:02:22,450 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:02:22,642 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:02:22,973 - Started OrderServiceImplTest in 10.332 seconds (JVM running for 11.21)
+2021-04-03 17:02:26,541 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:02:26,543 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:02:26,546 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:02:29,768 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:02:40,782 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 4176 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:02:40,783 - No active profile set, falling back to default profiles: default
+2021-04-03 17:02:41,337 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:02:41,417 - Finished Spring Data repository scanning in 72 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:02:41,915 - HikariPool-1 - Starting...
+2021-04-03 17:02:47,558 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:02:47,600 - HikariPool-1 - Start completed.
+2021-04-03 17:02:47,658 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:02:47,710 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:02:47,845 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:02:48,449 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:02:49,031 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:02:49,041 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:02:49,866 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:02:50,088 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:02:50,488 - Started OrderServiceImplTest in 10.179 seconds (JVM running for 11.291)
+2021-04-03 17:03:11,530 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:03:11,532 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:03:11,534 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:03:11,573 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:06:56,270 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 13908 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:06:56,272 - No active profile set, falling back to default profiles: default
+2021-04-03 17:06:56,809 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:06:56,881 - Finished Spring Data repository scanning in 54 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:06:57,328 - HikariPool-1 - Starting...
+2021-04-03 17:06:57,911 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:06:57,990 - HikariPool-1 - Start completed.
+2021-04-03 17:06:58,044 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:06:58,090 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:06:58,214 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:06:58,514 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:06:59,030 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:06:59,038 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:06:59,662 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:06:59,829 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:07:00,144 - Started OrderServiceImplTest in 4.291 seconds (JVM running for 5.176)
+2021-04-03 17:07:01,761 - 【创建订单】result=OrderDTO(orderId=null, buyerName=廖师兄, buyerPhone=123456789012, buyerAddress=幕课网, buyerOpenid=110110, orderAmount=null, orderStatus=0, payStatus=0, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=1617440820874528256, orderId=1617440820575921447, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=1, productIcon=http://xxxxx.jpg), OrderDetail(detailId=1617440821015560068, orderId=1617440820575921447, productId=123457, productName=皮皮虾, productPrice=3.20, productQuantity=2, productIcon=http://xxxxx.jpg)])
+2021-04-03 17:07:01,784 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:07:01,785 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:07:01,787 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:07:01,871 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:11:06,191 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 6904 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:11:06,192 - No active profile set, falling back to default profiles: default
+2021-04-03 17:11:06,748 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:11:06,821 - Finished Spring Data repository scanning in 62 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:11:07,355 - HikariPool-1 - Starting...
+2021-04-03 17:11:08,709 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:11:08,780 - HikariPool-1 - Start completed.
+2021-04-03 17:11:08,841 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:11:08,895 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:11:09,025 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:11:09,610 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:11:10,207 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:11:10,217 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:11:11,469 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:11:11,697 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:11:12,167 - Started OrderServiceImplTest in 6.418 seconds (JVM running for 7.582)
+2021-04-03 17:13:28,334 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m13s114ms297µs).
+2021-04-03 17:13:28,377 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:13:28,378 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:13:28,380 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:13:28,715 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:13:36,981 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 10712 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:13:36,983 - No active profile set, falling back to default profiles: default
+2021-04-03 17:13:37,509 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:13:37,579 - Finished Spring Data repository scanning in 58 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:13:38,005 - HikariPool-1 - Starting...
+2021-04-03 17:13:44,802 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:13:44,842 - HikariPool-1 - Start completed.
+2021-04-03 17:13:44,896 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:13:44,944 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:13:45,066 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:13:45,367 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:13:45,879 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:13:45,888 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:13:46,532 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:13:46,714 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:13:47,017 - Started OrderServiceImplTest in 10.426 seconds (JVM running for 11.326)
+2021-04-03 17:13:48,969 - 【创建订单】result=OrderDTO(orderId=1617441227187339851, buyerName=廖师兄, buyerPhone=123456789012, buyerAddress=幕课网, buyerOpenid=110110, orderAmount=9.60, orderStatus=0, payStatus=0, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=1617441227471994079, orderId=1617441227187339851, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=1, productIcon=http://xxxxx.jpg), OrderDetail(detailId=1617441227551295672, orderId=1617441227187339851, productId=123457, productName=皮皮虾, productPrice=3.20, productQuantity=2, productIcon=http://xxxxx.jpg)])
+2021-04-03 17:13:48,988 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:13:48,990 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:13:48,992 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:13:56,683 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:30:56,092 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 10196 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:30:56,093 - No active profile set, falling back to default profiles: default
+2021-04-03 17:30:56,745 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:30:56,831 - Finished Spring Data repository scanning in 77 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:30:57,393 - HikariPool-1 - Starting...
+2021-04-03 17:31:00,716 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:31:00,772 - HikariPool-1 - Start completed.
+2021-04-03 17:31:00,827 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:31:00,887 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:31:01,043 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:31:01,427 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:31:01,993 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:31:02,014 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:31:03,210 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:31:03,398 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:31:03,853 - Started OrderServiceImplTest in 8.309 seconds (JVM running for 9.49)
+2021-04-03 17:31:05,694 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:31:05,695 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:31:05,698 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:31:06,695 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:34:27,885 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 10872 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:34:27,887 - No active profile set, falling back to default profiles: default
+2021-04-03 17:34:28,475 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:34:28,570 - Finished Spring Data repository scanning in 83 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:34:29,138 - HikariPool-1 - Starting...
+2021-04-03 17:34:29,644 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:34:29,679 - HikariPool-1 - Start completed.
+2021-04-03 17:34:29,742 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:34:29,798 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:34:29,928 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:34:30,572 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:34:31,177 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:34:31,188 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:34:32,723 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:34:32,961 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:34:33,388 - Started OrderServiceImplTest in 5.999 seconds (JVM running for 7.2)
+2021-04-03 17:37:50,736 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m49s217ms48µs300ns).
+2021-04-03 17:37:50,743 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:37:50,745 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:37:50,752 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:37:51,958 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:37:56,333 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 2944 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:37:56,336 - No active profile set, falling back to default profiles: default
+2021-04-03 17:37:56,881 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:37:56,958 - Finished Spring Data repository scanning in 67 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:37:57,477 - HikariPool-1 - Starting...
+2021-04-03 17:38:00,381 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:38:00,560 - HikariPool-1 - Start completed.
+2021-04-03 17:38:00,628 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:38:00,684 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:38:00,818 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:38:01,541 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:38:02,115 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:38:02,127 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:38:02,957 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:38:03,168 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:38:06,842 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 7324 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:38:06,845 - No active profile set, falling back to default profiles: default
+2021-04-03 17:38:07,652 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:38:07,723 - Finished Spring Data repository scanning in 62 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:38:08,240 - HikariPool-1 - Starting...
+2021-04-03 17:38:08,722 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:38:08,763 - HikariPool-1 - Start completed.
+2021-04-03 17:38:08,815 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:38:08,865 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:38:08,991 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:38:09,298 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:38:09,807 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:38:09,815 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:38:10,429 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:38:10,608 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:38:10,889 - Started OrderServiceImplTest in 4.442 seconds (JVM running for 5.317)
+2021-04-03 17:38:11,854 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:38:11,855 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:38:11,857 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:38:13,791 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:39:29,299 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 5344 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:39:29,301 - No active profile set, falling back to default profiles: default
+2021-04-03 17:39:29,833 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:39:29,898 - Finished Spring Data repository scanning in 57 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:39:30,364 - HikariPool-1 - Starting...
+2021-04-03 17:39:33,265 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:39:33,549 - HikariPool-1 - Start completed.
+2021-04-03 17:39:33,608 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:39:33,657 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:39:33,785 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:39:34,114 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:39:34,641 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:39:34,651 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:39:35,371 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:39:35,546 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:39:35,880 - Started OrderServiceImplTest in 6.991 seconds (JVM running for 7.891)
+2021-04-03 17:39:37,970 - 【创建订单】result=OrderDTO(orderId=1617440820575921447, buyerName=廖师兄, buyerPhone=123456789012, buyerAddress=幕课网, buyerOpenid=110110, orderAmount=9.60, orderStatus=0, payStatus=0, createTime=2021-04-03 17:07:02.0, updateTime=2021-04-03 17:07:02.0, orderDetailList=[OrderDetail(detailId=1617440820874528256, orderId=1617440820575921447, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=1, productIcon=http://xxxxx.jpg), OrderDetail(detailId=1617440821015560068, orderId=1617440820575921447, productId=123457, productName=皮皮虾, productPrice=3.20, productQuantity=2, productIcon=http://xxxxx.jpg)])
+2021-04-03 17:39:38,003 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:39:38,004 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:39:38,006 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:39:38,601 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:52:43,236 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11128 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:52:43,237 - No active profile set, falling back to default profiles: default
+2021-04-03 17:52:43,750 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:52:43,820 - Finished Spring Data repository scanning in 55 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:52:44,247 - HikariPool-1 - Starting...
+2021-04-03 17:52:44,743 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:52:44,843 - HikariPool-1 - Start completed.
+2021-04-03 17:52:44,893 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:52:44,943 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:52:45,066 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:52:45,362 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:52:45,877 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:52:45,885 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:52:46,471 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:52:46,642 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:52:46,918 - Started OrderServiceImplTest in 4.193 seconds (JVM running for 5.52)
+2021-04-03 17:52:47,791 - 【创建订单】result=OrderDTO(orderId=1617440820575921447, buyerName=廖师兄, buyerPhone=123456789012, buyerAddress=幕课网, buyerOpenid=110110, orderAmount=9.60, orderStatus=0, payStatus=0, createTime=2021-04-03 17:07:02.0, updateTime=2021-04-03 17:07:02.0, orderDetailList=[OrderDetail(detailId=1617440820874528256, orderId=1617440820575921447, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=1, productIcon=http://xxxxx.jpg), OrderDetail(detailId=1617440821015560068, orderId=1617440820575921447, productId=123457, productName=皮皮虾, productPrice=3.20, productQuantity=2, productIcon=http://xxxxx.jpg)])
+2021-04-03 17:52:47,819 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:52:47,821 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:52:47,823 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:52:47,899 - HikariPool-1 - Shutdown completed.
+2021-04-03 17:53:01,118 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 6708 (started by Elwood in D:\Projects\sell)
+2021-04-03 17:53:01,119 - No active profile set, falling back to default profiles: default
+2021-04-03 17:53:01,853 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 17:53:01,923 - Finished Spring Data repository scanning in 62 ms. Found 4 JPA repository interfaces.
+2021-04-03 17:53:02,343 - HikariPool-1 - Starting...
+2021-04-03 17:53:03,194 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 17:53:03,265 - HikariPool-1 - Start completed.
+2021-04-03 17:53:03,312 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 17:53:03,359 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 17:53:03,477 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 17:53:03,764 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 17:53:04,269 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 17:53:04,277 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:53:04,849 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 17:53:05,026 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:53:05,345 - Started OrderServiceImplTest in 4.632 seconds (JVM running for 5.484)
+2021-04-03 17:53:05,836 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 17:53:05,837 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 17:53:05,838 - HikariPool-1 - Shutdown initiated...
+2021-04-03 17:53:06,721 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:42:43,969 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 12064 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:42:43,970 - No active profile set, falling back to default profiles: default
+2021-04-03 18:42:44,519 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:42:44,593 - Finished Spring Data repository scanning in 66 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:42:45,037 - HikariPool-1 - Starting...
+2021-04-03 18:42:48,624 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:42:48,702 - HikariPool-1 - Start completed.
+2021-04-03 18:42:48,751 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:42:48,798 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 18:42:48,917 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 18:42:49,215 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 18:42:49,737 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 18:42:49,746 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:42:55,317 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 18:42:55,492 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:42:55,776 - Started OrderServiceImplTest in 12.232 seconds (JVM running for 13.264)
+2021-04-03 18:42:58,982 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:42:58,983 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:42:58,985 - HikariPool-1 - Shutdown initiated...
+2021-04-03 18:43:11,042 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:44:08,572 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 12596 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:44:08,574 - No active profile set, falling back to default profiles: default
+2021-04-03 18:44:09,094 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:44:09,159 - Finished Spring Data repository scanning in 57 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:44:09,557 - HikariPool-1 - Starting...
+2021-04-03 18:44:10,024 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:44:10,063 - HikariPool-1 - Start completed.
+2021-04-03 18:44:10,125 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:44:10,178 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 18:44:10,298 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 18:44:10,595 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 18:44:11,173 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 18:44:11,185 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:44:12,034 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 18:44:12,206 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:44:12,490 - Started OrderServiceImplTest in 4.376 seconds (JVM running for 5.537)
+2021-04-03 18:44:12,964 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:44:12,966 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:44:12,968 - HikariPool-1 - Shutdown initiated...
+2021-04-03 18:44:12,982 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:44:40,223 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 5072 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:44:40,225 - No active profile set, falling back to default profiles: default
+2021-04-03 18:44:40,777 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:44:40,847 - Finished Spring Data repository scanning in 57 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:44:41,266 - HikariPool-1 - Starting...
+2021-04-03 18:44:41,712 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:44:41,753 - HikariPool-1 - Start completed.
+2021-04-03 18:44:41,802 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:44:41,849 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 18:44:41,976 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 18:44:42,285 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 18:44:42,873 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 18:44:42,886 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:44:43,660 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 18:44:43,842 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:44:44,182 - Started OrderServiceImplTest in 4.342 seconds (JVM running for 5.251)
+2021-04-03 18:44:49,669 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:44:49,670 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:44:49,671 - HikariPool-1 - Shutdown initiated...
+2021-04-03 18:44:49,675 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:48:56,833 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 2156 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:48:56,834 - No active profile set, falling back to default profiles: default
+2021-04-03 18:48:57,418 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:48:57,501 - Finished Spring Data repository scanning in 67 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:48:58,077 - HikariPool-1 - Starting...
+2021-04-03 18:49:30,148 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:49:30,248 - HikariPool-1 - Start completed.
+2021-04-03 18:49:30,355 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:49:30,406 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 18:49:30,530 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 18:49:30,886 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 18:49:31,411 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 18:49:31,422 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:49:32,183 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 18:49:32,392 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:49:32,706 - Started OrderServiceImplTest in 36.259 seconds (JVM running for 37.175)
+2021-04-03 18:49:33,626 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:49:33,627 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:49:33,629 - HikariPool-1 - Shutdown initiated...
+2021-04-03 18:49:33,636 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:50:08,169 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11516 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:50:08,172 - No active profile set, falling back to default profiles: default
+2021-04-03 18:50:08,679 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:50:08,752 - Finished Spring Data repository scanning in 63 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:50:09,178 - HikariPool-1 - Starting...
+2021-04-03 18:50:10,907 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:50:10,968 - HikariPool-1 - Start completed.
+2021-04-03 18:50:11,017 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:50:11,063 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 18:50:11,183 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 18:50:11,473 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 18:50:11,967 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 18:50:11,975 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:50:12,554 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 18:50:12,716 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:50:13,009 - Started OrderServiceImplTest in 5.224 seconds (JVM running for 6.068)
+2021-04-03 18:50:15,002 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:50:15,003 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:50:15,004 - HikariPool-1 - Shutdown initiated...
+2021-04-03 18:50:17,176 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:52:29,013 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 8212 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:52:29,015 - No active profile set, falling back to default profiles: default
+2021-04-03 18:52:29,578 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:52:29,662 - Finished Spring Data repository scanning in 73 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:52:30,250 - HikariPool-1 - Starting...
+2021-04-03 18:52:30,718 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:52:30,774 - HikariPool-1 - Start completed.
+2021-04-03 18:52:30,841 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:52:30,897 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 18:52:31,059 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 18:52:31,400 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 18:52:31,972 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 18:52:31,982 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:52:32,715 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 18:52:32,939 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:52:33,371 - Started OrderServiceImplTest in 4.761 seconds (JVM running for 6.107)
+2021-04-03 18:55:16,775 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m14s739ms891µs600ns).
+2021-04-03 18:55:16,783 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:55:16,784 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:55:16,786 - HikariPool-1 - Shutdown initiated...
+2021-04-03 18:55:16,790 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:58:05,984 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 1880 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:58:05,986 - No active profile set, falling back to default profiles: default
+2021-04-03 18:58:06,487 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:58:06,558 - Finished Spring Data repository scanning in 62 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:58:06,980 - HikariPool-1 - Starting...
+2021-04-03 18:58:07,447 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:58:07,517 - HikariPool-1 - Start completed.
+2021-04-03 18:58:07,568 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:58:07,619 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 18:58:07,738 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 18:58:08,042 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 18:58:08,539 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 18:58:08,547 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:58:09,135 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 18:58:09,299 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:58:09,587 - Started OrderServiceImplTest in 3.982 seconds (JVM running for 4.859)
+2021-04-03 18:58:10,609 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 18:58:10,610 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 18:58:10,612 - HikariPool-1 - Shutdown initiated...
+2021-04-03 18:58:10,618 - HikariPool-1 - Shutdown completed.
+2021-04-03 18:59:58,223 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 9868 (started by Elwood in D:\Projects\sell)
+2021-04-03 18:59:58,225 - No active profile set, falling back to default profiles: default
+2021-04-03 18:59:58,737 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 18:59:58,819 - Finished Spring Data repository scanning in 73 ms. Found 4 JPA repository interfaces.
+2021-04-03 18:59:59,341 - HikariPool-1 - Starting...
+2021-04-03 18:59:59,726 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 18:59:59,801 - HikariPool-1 - Start completed.
+2021-04-03 18:59:59,865 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 18:59:59,918 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 19:00:00,048 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 19:00:00,413 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 19:00:00,990 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 19:00:01,000 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 19:00:01,767 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 19:00:01,978 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 19:00:02,371 - Started OrderServiceImplTest in 4.569 seconds (JVM running for 5.573)
+2021-04-03 19:01:16,841 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m16s932ms840µs).
+2021-04-03 19:02:23,551 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m6s709ms732µs300ns).
+2021-04-03 19:02:23,585 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 19:02:23,586 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 19:02:23,588 - HikariPool-1 - Shutdown initiated...
+2021-04-03 19:02:23,674 - HikariPool-1 - Shutdown completed.
+2021-04-03 19:04:19,404 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 2212 (started by Elwood in D:\Projects\sell)
+2021-04-03 19:04:19,406 - No active profile set, falling back to default profiles: default
+2021-04-03 19:04:19,923 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 19:04:19,988 - Finished Spring Data repository scanning in 58 ms. Found 4 JPA repository interfaces.
+2021-04-03 19:04:20,409 - HikariPool-1 - Starting...
+2021-04-03 19:04:20,840 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 19:04:20,889 - HikariPool-1 - Start completed.
+2021-04-03 19:04:20,952 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 19:04:20,998 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 19:04:21,123 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 19:04:21,429 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 19:04:21,962 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 19:04:21,971 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 19:04:22,682 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 19:04:22,841 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 19:04:23,139 - Started OrderServiceImplTest in 4.137 seconds (JVM running for 5.003)
+2021-04-03 19:04:23,955 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 19:04:23,956 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 19:04:23,957 - HikariPool-1 - Shutdown initiated...
+2021-04-03 19:04:23,961 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:19:54,898 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 9208 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:19:54,899 - No active profile set, falling back to default profiles: default
+2021-04-03 21:19:55,472 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:19:55,541 - Finished Spring Data repository scanning in 60 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:19:55,969 - HikariPool-1 - Starting...
+2021-04-03 21:19:56,343 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:19:56,384 - HikariPool-1 - Start completed.
+2021-04-03 21:19:56,455 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:19:56,522 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:19:56,692 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:19:57,045 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:19:57,621 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:19:57,630 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:19:58,272 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:19:58,445 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:19:58,748 - Started OrderServiceImplTest in 4.235 seconds (JVM running for 5.154)
+2021-04-03 21:19:59,364 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:19:59,365 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:19:59,367 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:19:59,371 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:20:32,898 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 10592 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:20:32,900 - No active profile set, falling back to default profiles: default
+2021-04-03 21:20:33,413 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:20:33,484 - Finished Spring Data repository scanning in 63 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:20:33,952 - HikariPool-1 - Starting...
+2021-04-03 21:20:34,483 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:20:34,524 - HikariPool-1 - Start completed.
+2021-04-03 21:20:34,579 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:20:34,632 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:20:34,758 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:20:35,096 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:20:35,644 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:20:35,654 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:20:36,396 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:20:36,600 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:20:36,998 - Started OrderServiceImplTest in 4.494 seconds (JVM running for 5.573)
+2021-04-03 21:21:38,746 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m4s117ms371µs700ns).
+2021-04-03 21:21:38,810 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:21:38,812 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:21:38,813 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:21:38,818 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:21:45,795 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 924 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:21:45,797 - No active profile set, falling back to default profiles: default
+2021-04-03 21:21:46,290 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:21:46,360 - Finished Spring Data repository scanning in 59 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:21:46,760 - HikariPool-1 - Starting...
+2021-04-03 21:21:47,169 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:21:47,213 - HikariPool-1 - Start completed.
+2021-04-03 21:21:47,279 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:21:47,328 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:21:47,453 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:21:47,774 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:21:48,276 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:21:48,283 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:21:48,859 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:21:49,020 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:21:49,312 - Started OrderServiceImplTest in 3.882 seconds (JVM running for 4.7)
+2021-04-03 21:21:50,048 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:21:50,049 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:21:50,051 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:21:50,056 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:22:44,168 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 13268 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:22:44,172 - No active profile set, falling back to default profiles: default
+2021-04-03 21:22:44,906 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:22:45,012 - Finished Spring Data repository scanning in 84 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:22:45,498 - HikariPool-1 - Starting...
+2021-04-03 21:22:46,004 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:22:46,046 - HikariPool-1 - Start completed.
+2021-04-03 21:22:46,099 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:22:46,144 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:22:46,264 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:22:46,558 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:22:47,056 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:22:47,065 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:22:47,630 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:22:47,787 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:22:48,090 - Started OrderServiceImplTest in 4.38 seconds (JVM running for 5.203)
+2021-04-03 21:22:48,567 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:22:48,568 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:22:48,570 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:22:48,573 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:23:24,668 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 10196 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:23:24,670 - No active profile set, falling back to default profiles: default
+2021-04-03 21:23:25,175 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:23:25,247 - Finished Spring Data repository scanning in 64 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:23:25,735 - HikariPool-1 - Starting...
+2021-04-03 21:23:26,100 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:23:26,145 - HikariPool-1 - Start completed.
+2021-04-03 21:23:26,215 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:23:26,265 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:23:26,390 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:23:26,726 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:23:27,294 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:23:27,305 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:23:28,036 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:23:28,232 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:23:28,613 - Started OrderServiceImplTest in 4.38 seconds (JVM running for 5.366)
+2021-04-03 21:26:01,154 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m4s335ms194µs300ns).
+2021-04-03 21:26:01,162 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:26:01,164 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:26:01,166 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:26:01,170 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:26:04,546 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 1860 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:26:04,548 - No active profile set, falling back to default profiles: default
+2021-04-03 21:26:05,056 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:26:05,119 - Finished Spring Data repository scanning in 55 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:26:05,526 - HikariPool-1 - Starting...
+2021-04-03 21:26:05,972 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:26:06,029 - HikariPool-1 - Start completed.
+2021-04-03 21:26:06,094 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:26:06,143 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:26:06,275 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:26:06,595 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:26:07,128 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:26:07,136 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:26:07,725 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:26:07,877 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:26:08,161 - Started OrderServiceImplTest in 3.978 seconds (JVM running for 4.802)
+2021-04-03 21:26:08,864 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:26:08,864 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:26:08,866 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:26:08,869 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:27:04,530 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 12480 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:27:04,531 - No active profile set, falling back to default profiles: default
+2021-04-03 21:27:05,082 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:27:05,150 - Finished Spring Data repository scanning in 56 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:27:05,640 - HikariPool-1 - Starting...
+2021-04-03 21:27:06,001 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:27:06,059 - HikariPool-1 - Start completed.
+2021-04-03 21:27:06,158 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:27:06,203 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:27:06,324 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:27:06,645 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:27:07,131 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:27:07,139 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:27:07,707 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:27:07,860 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:27:08,154 - Started OrderServiceImplTest in 3.962 seconds (JVM running for 4.809)
+2021-04-03 21:27:08,780 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:27:08,781 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:27:08,783 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:27:08,786 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:30:08,067 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11484 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:30:08,069 - No active profile set, falling back to default profiles: default
+2021-04-03 21:30:08,557 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:30:08,623 - Finished Spring Data repository scanning in 58 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:30:09,096 - HikariPool-1 - Starting...
+2021-04-03 21:30:09,482 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:30:09,517 - HikariPool-1 - Start completed.
+2021-04-03 21:30:09,571 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:30:09,622 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:30:09,751 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:30:10,089 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:30:10,636 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:30:10,646 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:30:11,355 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:30:11,547 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:30:11,931 - Started OrderServiceImplTest in 4.235 seconds (JVM running for 5.32)
+2021-04-03 21:30:12,673 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:30:12,674 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:30:12,677 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:30:12,682 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:30:31,916 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 10060 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:30:31,917 - No active profile set, falling back to default profiles: default
+2021-04-03 21:30:32,423 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:30:32,496 - Finished Spring Data repository scanning in 66 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:30:32,976 - HikariPool-1 - Starting...
+2021-04-03 21:30:33,517 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:30:33,576 - HikariPool-1 - Start completed.
+2021-04-03 21:30:33,631 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:30:33,686 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:30:33,813 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:30:34,284 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:30:34,859 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:30:34,870 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:30:35,651 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:30:35,856 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:30:36,228 - Started OrderServiceImplTest in 4.718 seconds (JVM running for 5.707)
+2021-04-03 21:30:37,136 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:30:37,137 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:30:37,139 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:30:37,143 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:31:46,675 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 14032 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:31:46,677 - No active profile set, falling back to default profiles: default
+2021-04-03 21:31:47,242 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:31:47,317 - Finished Spring Data repository scanning in 67 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:31:47,811 - HikariPool-1 - Starting...
+2021-04-03 21:31:48,204 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:31:48,245 - HikariPool-1 - Start completed.
+2021-04-03 21:31:48,303 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:31:48,348 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:31:48,464 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:31:48,757 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:31:49,245 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:31:49,253 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:31:49,801 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:31:49,957 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:31:50,236 - Started OrderServiceImplTest in 3.937 seconds (JVM running for 4.776)
+2021-04-03 21:31:50,793 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:31:50,794 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:31:50,795 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:31:50,798 - HikariPool-1 - Shutdown completed.
+2021-04-03 21:33:52,258 - Starting OrderServiceImplTest using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 2752 (started by Elwood in D:\Projects\sell)
+2021-04-03 21:33:52,260 - No active profile set, falling back to default profiles: default
+2021-04-03 21:33:52,752 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-03 21:33:52,812 - Finished Spring Data repository scanning in 53 ms. Found 4 JPA repository interfaces.
+2021-04-03 21:33:53,172 - HikariPool-1 - Starting...
+2021-04-03 21:33:53,652 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-03 21:33:53,703 - HikariPool-1 - Start completed.
+2021-04-03 21:33:53,754 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-03 21:33:53,800 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-03 21:33:53,917 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-03 21:33:54,210 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-03 21:33:54,706 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-03 21:33:54,714 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:33:55,258 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-03 21:33:55,421 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:33:55,709 - Started OrderServiceImplTest in 3.785 seconds (JVM running for 4.645)
+2021-04-03 21:33:56,442 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-03 21:33:56,444 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-03 21:33:56,445 - HikariPool-1 - Shutdown initiated...
+2021-04-03 21:33:56,449 - HikariPool-1 - Shutdown completed.
