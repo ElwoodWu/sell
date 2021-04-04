@@ -77,8 +77,8 @@ throw  new SellException(ResultEnum.PRODUCT_NOT_EXIST);
         }
 
         OrderMaster orderMaster=new OrderMaster();
+        orderDTO.setOrderId(orderId);
         BeanUtils.copyProperties(orderDTO,orderMaster);
-        orderMaster.setOrderId(orderId);
         orderMaster.setOrderAmount(orderAmount);
 orderMaster.setOrderStatus(OrderStatusEnum.NEW.getCode());
 orderMaster.setPayStatus(PayStatusEnum.WAIT.getCode());

@@ -1,0 +1,558 @@
+2021-04-04 13:40:51,590 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 13:40:51,599 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 4592 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 13:40:51,600 - No active profile set, falling back to default profiles: default
+2021-04-04 13:40:52,138 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 13:40:52,190 - Finished Spring Data repository scanning in 44 ms. Found 4 JPA repository interfaces.
+2021-04-04 13:40:52,537 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 13:40:52,544 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 13:40:52,544 - Starting service [Tomcat]
+2021-04-04 13:40:52,545 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 13:40:52,651 - Initializing Spring embedded WebApplicationContext
+2021-04-04 13:40:52,651 - Root WebApplicationContext: initialization completed in 1022 ms
+2021-04-04 13:40:52,762 - HikariPool-1 - Starting...
+2021-04-04 13:40:53,163 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 13:40:53,206 - HikariPool-1 - Start completed.
+2021-04-04 13:40:53,274 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 13:40:53,374 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 13:40:53,536 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 13:40:53,642 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 13:40:54,148 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 13:40:54,156 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 13:40:54,482 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 13:40:54,548 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 13:40:54,694 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 13:40:54,707 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 13:40:54,713 - Started SellApplication in 3.504 seconds (JVM running for 4.221)
+2021-04-04 13:44:43,687 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 13:44:43,687 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 13:44:43,689 - Completed initialization in 2 ms
+2021-04-04 13:55:08,929 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 13:55:08,932 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 3324 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 13:55:08,932 - No active profile set, falling back to default profiles: default
+2021-04-04 13:55:09,428 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 13:55:09,477 - Finished Spring Data repository scanning in 43 ms. Found 4 JPA repository interfaces.
+2021-04-04 13:55:09,789 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 13:55:09,794 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 13:55:09,795 - Starting service [Tomcat]
+2021-04-04 13:55:09,795 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 13:55:09,873 - Initializing Spring embedded WebApplicationContext
+2021-04-04 13:55:09,873 - Root WebApplicationContext: initialization completed in 913 ms
+2021-04-04 13:55:09,950 - HikariPool-1 - Starting...
+2021-04-04 13:55:10,218 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 13:55:10,273 - HikariPool-1 - Start completed.
+2021-04-04 13:55:10,316 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 13:55:10,348 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 13:55:10,423 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 13:55:10,497 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 13:55:10,863 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 13:55:10,871 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 13:55:11,171 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 13:55:11,232 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 13:55:11,375 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 13:55:11,389 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 13:55:11,396 - Started SellApplication in 2.776 seconds (JVM running for 3.377)
+2021-04-04 13:56:42,196 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 13:56:42,196 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 13:56:42,197 - Completed initialization in 1 ms
+2021-04-04 13:58:41,097 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 13:58:41,105 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11128 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 13:58:41,105 - No active profile set, falling back to default profiles: default
+2021-04-04 13:58:41,588 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 13:58:41,653 - Finished Spring Data repository scanning in 57 ms. Found 4 JPA repository interfaces.
+2021-04-04 13:58:42,014 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 13:58:42,021 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 13:58:42,021 - Starting service [Tomcat]
+2021-04-04 13:58:42,021 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 13:58:42,113 - Initializing Spring embedded WebApplicationContext
+2021-04-04 13:58:42,113 - Root WebApplicationContext: initialization completed in 968 ms
+2021-04-04 13:58:42,204 - HikariPool-1 - Starting...
+2021-04-04 13:58:42,600 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 13:58:42,654 - HikariPool-1 - Start completed.
+2021-04-04 13:58:42,687 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 13:58:42,725 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 13:58:42,833 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 13:58:42,952 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 13:58:43,447 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 13:58:43,456 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 13:58:43,923 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 13:58:43,996 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 13:58:44,155 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 13:58:44,169 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 13:58:44,176 - Started SellApplication in 3.448 seconds (JVM running for 4.755)
+2021-04-04 13:58:52,486 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 13:58:52,486 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 13:58:52,487 - Completed initialization in 1 ms
+2021-04-04 14:00:34,555 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m9s360ms159µs400ns).
+2021-04-04 14:01:23,513 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:01:23,514 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:01:23,516 - HikariPool-1 - Shutdown initiated...
+2021-04-04 14:01:23,518 - HikariPool-1 - Shutdown completed.
+2021-04-04 14:02:05,549 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 14516 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:02:05,547 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:02:05,551 - No active profile set, falling back to default profiles: default
+2021-04-04 14:02:06,088 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:02:06,136 - Finished Spring Data repository scanning in 42 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:02:06,483 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:02:06,497 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:02:06,498 - Starting service [Tomcat]
+2021-04-04 14:02:06,498 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:02:06,589 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:02:06,589 - Root WebApplicationContext: initialization completed in 996 ms
+2021-04-04 14:02:06,667 - HikariPool-1 - Starting...
+2021-04-04 14:02:07,472 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:02:07,514 - HikariPool-1 - Start completed.
+2021-04-04 14:02:07,560 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:02:07,588 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:02:07,669 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:02:07,741 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:02:08,184 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:02:08,192 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:02:08,517 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:02:08,582 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:02:08,722 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:02:08,735 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:02:08,742 - Started SellApplication in 3.537 seconds (JVM running for 4.192)
+2021-04-04 14:03:16,353 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:03:16,354 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:03:16,355 - Completed initialization in 1 ms
+2021-04-04 14:03:16,391 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'openid' is not present]
+2021-04-04 14:03:42,753 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'openid' is not present]
+2021-04-04 14:04:14,195 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:04:14,201 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 15032 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:04:14,202 - No active profile set, falling back to default profiles: default
+2021-04-04 14:04:14,799 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:04:14,862 - Finished Spring Data repository scanning in 55 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:04:15,216 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:04:15,222 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:04:15,223 - Starting service [Tomcat]
+2021-04-04 14:04:15,223 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:04:15,317 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:04:15,317 - Root WebApplicationContext: initialization completed in 1084 ms
+2021-04-04 14:04:15,504 - HikariPool-1 - Starting...
+2021-04-04 14:04:15,946 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:04:16,000 - HikariPool-1 - Start completed.
+2021-04-04 14:04:16,071 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:04:16,127 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:04:16,301 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:04:16,455 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:04:17,057 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:04:17,070 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:04:17,757 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:04:17,911 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:04:18,254 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:04:18,272 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:04:18,280 - Started SellApplication in 4.572 seconds (JVM running for 5.335)
+2021-04-04 14:04:24,636 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:04:24,636 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:04:24,638 - Completed initialization in 2 ms
+2021-04-04 14:04:24,674 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'openid' is not present]
+2021-04-04 14:06:24,622 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:06:24,624 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:06:24,625 - HikariPool-1 - Shutdown initiated...
+2021-04-04 14:06:24,628 - HikariPool-1 - Shutdown completed.
+2021-04-04 14:06:33,958 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:06:33,961 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 3552 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:06:33,961 - No active profile set, falling back to default profiles: default
+2021-04-04 14:06:34,519 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:06:34,572 - Finished Spring Data repository scanning in 46 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:06:34,890 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:06:34,896 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:06:34,896 - Starting service [Tomcat]
+2021-04-04 14:06:34,896 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:06:34,972 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:06:34,972 - Root WebApplicationContext: initialization completed in 970 ms
+2021-04-04 14:06:35,046 - HikariPool-1 - Starting...
+2021-04-04 14:06:35,638 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:06:35,747 - HikariPool-1 - Start completed.
+2021-04-04 14:06:35,773 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:06:35,802 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:06:35,875 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:06:35,946 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:06:36,310 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:06:36,317 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:06:36,609 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:06:36,673 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:06:36,919 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:06:36,937 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:06:36,946 - Started SellApplication in 3.345 seconds (JVM running for 3.965)
+2021-04-04 14:06:37,392 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:06:37,392 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:06:37,393 - Completed initialization in 1 ms
+2021-04-04 14:07:25,359 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:07:25,366 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 11608 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:07:25,366 - No active profile set, falling back to default profiles: default
+2021-04-04 14:07:25,870 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:07:25,917 - Finished Spring Data repository scanning in 41 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:07:26,252 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:07:26,257 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:07:26,258 - Starting service [Tomcat]
+2021-04-04 14:07:26,258 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:07:26,332 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:07:26,332 - Root WebApplicationContext: initialization completed in 934 ms
+2021-04-04 14:07:26,408 - HikariPool-1 - Starting...
+2021-04-04 14:07:26,963 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:07:27,010 - HikariPool-1 - Start completed.
+2021-04-04 14:07:27,048 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:07:27,079 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:07:27,152 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:07:27,224 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:07:27,591 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:07:27,598 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:07:27,892 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:07:27,954 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:07:28,102 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:07:28,117 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:07:28,125 - Started SellApplication in 3.099 seconds (JVM running for 3.658)
+2021-04-04 14:07:33,583 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:07:33,584 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:07:33,585 - Completed initialization in 1 ms
+2021-04-04 14:15:50,255 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:15:50,258 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 3436 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:15:50,258 - No active profile set, falling back to default profiles: default
+2021-04-04 14:15:50,949 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:15:51,010 - Finished Spring Data repository scanning in 55 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:15:51,471 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:15:51,478 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:15:51,478 - Starting service [Tomcat]
+2021-04-04 14:15:51,478 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:15:51,561 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:15:51,561 - Root WebApplicationContext: initialization completed in 1267 ms
+2021-04-04 14:15:51,648 - HikariPool-1 - Starting...
+2021-04-04 14:15:52,048 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:15:52,083 - HikariPool-1 - Start completed.
+2021-04-04 14:15:52,116 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:15:52,228 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:15:52,397 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:15:52,510 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:15:53,005 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:15:53,013 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:15:53,355 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:15:53,423 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:15:53,575 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:15:53,592 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:15:53,599 - Started SellApplication in 3.753 seconds (JVM running for 4.442)
+2021-04-04 14:15:59,593 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:15:59,593 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:15:59,594 - Completed initialization in 1 ms
+2021-04-04 14:18:51,887 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:18:51,891 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 9340 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:18:51,892 - No active profile set, falling back to default profiles: default
+2021-04-04 14:18:52,462 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:18:52,516 - Finished Spring Data repository scanning in 47 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:18:52,858 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:18:52,863 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:18:52,864 - Starting service [Tomcat]
+2021-04-04 14:18:52,864 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:18:52,937 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:18:52,937 - Root WebApplicationContext: initialization completed in 1014 ms
+2021-04-04 14:18:53,013 - HikariPool-1 - Starting...
+2021-04-04 14:18:53,527 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:18:53,575 - HikariPool-1 - Start completed.
+2021-04-04 14:18:53,614 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:18:53,643 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:18:53,717 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:18:53,793 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:18:54,196 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:18:54,204 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:18:54,597 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:18:54,659 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:18:54,798 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:18:54,811 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:18:54,818 - Started SellApplication in 3.258 seconds (JVM running for 3.855)
+2021-04-04 14:18:58,144 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:18:58,144 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:18:58,148 - Completed initialization in 4 ms
+2021-04-04 14:22:56,010 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:22:56,012 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 15244 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:22:56,013 - No active profile set, falling back to default profiles: default
+2021-04-04 14:22:56,493 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:22:56,542 - Finished Spring Data repository scanning in 42 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:22:56,841 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:22:56,846 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:22:56,846 - Starting service [Tomcat]
+2021-04-04 14:22:56,847 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:22:56,919 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:22:56,919 - Root WebApplicationContext: initialization completed in 877 ms
+2021-04-04 14:22:56,995 - HikariPool-1 - Starting...
+2021-04-04 14:22:57,454 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:22:57,594 - HikariPool-1 - Start completed.
+2021-04-04 14:22:57,634 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:22:57,662 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:22:57,741 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:22:57,817 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:22:58,254 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:22:58,263 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:22:58,569 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:22:58,628 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:22:58,759 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:22:58,771 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:22:58,777 - Started SellApplication in 3.09 seconds (JVM running for 3.686)
+2021-04-04 14:23:00,393 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:23:00,393 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:23:00,394 - Completed initialization in 1 ms
+2021-04-04 14:34:52,526 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:34:52,532 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 3164 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:34:52,532 - No active profile set, falling back to default profiles: default
+2021-04-04 14:34:53,179 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:34:53,231 - Finished Spring Data repository scanning in 46 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:34:53,604 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:34:53,611 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:34:53,611 - Starting service [Tomcat]
+2021-04-04 14:34:53,612 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:34:53,712 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:34:53,712 - Root WebApplicationContext: initialization completed in 1142 ms
+2021-04-04 14:34:53,806 - HikariPool-1 - Starting...
+2021-04-04 14:34:54,106 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:34:54,143 - HikariPool-1 - Start completed.
+2021-04-04 14:34:54,176 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:34:54,247 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:34:54,374 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:34:54,475 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:34:54,935 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:34:54,943 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:34:55,238 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:34:55,302 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:34:55,446 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:34:55,460 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:34:55,467 - Started SellApplication in 3.313 seconds (JVM running for 3.981)
+2021-04-04 14:38:42,626 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:38:42,626 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:38:42,630 - Completed initialization in 3 ms
+2021-04-04 14:41:32,575 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 14312 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:41:32,573 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:41:32,577 - No active profile set, falling back to default profiles: default
+2021-04-04 14:41:33,231 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:41:33,279 - Finished Spring Data repository scanning in 42 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:41:33,600 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:41:33,605 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:41:33,606 - Starting service [Tomcat]
+2021-04-04 14:41:33,606 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:41:33,680 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:41:33,680 - Root WebApplicationContext: initialization completed in 1073 ms
+2021-04-04 14:41:33,753 - HikariPool-1 - Starting...
+2021-04-04 14:41:34,123 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:41:34,187 - HikariPool-1 - Start completed.
+2021-04-04 14:41:34,228 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:41:34,255 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:41:34,329 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:41:34,399 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:41:34,755 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:41:34,763 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:41:35,042 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:41:35,103 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:41:35,236 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:41:35,248 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:41:35,255 - Started SellApplication in 3.074 seconds (JVM running for 3.646)
+2021-04-04 14:41:37,381 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:41:37,381 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:41:37,382 - Completed initialization in 1 ms
+2021-04-04 14:48:37,653 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:48:37,657 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 6068 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:48:37,657 - No active profile set, falling back to default profiles: default
+2021-04-04 14:48:38,159 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:48:38,213 - Finished Spring Data repository scanning in 48 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:48:38,542 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:48:38,548 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:48:38,548 - Starting service [Tomcat]
+2021-04-04 14:48:38,548 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:48:38,621 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:48:38,621 - Root WebApplicationContext: initialization completed in 935 ms
+2021-04-04 14:48:38,698 - HikariPool-1 - Starting...
+2021-04-04 14:48:39,025 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:48:39,068 - HikariPool-1 - Start completed.
+2021-04-04 14:48:39,107 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:48:39,137 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:48:39,213 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:48:39,285 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:48:39,651 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:48:39,659 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:48:39,949 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:48:40,011 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:48:40,159 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:48:40,173 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:48:40,180 - Started SellApplication in 2.85 seconds (JVM running for 3.431)
+2021-04-04 14:48:46,678 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:48:46,679 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:48:46,680 - Completed initialization in 1 ms
+2021-04-04 14:48:46,692 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-04-04 14:50:56,681 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:50:56,685 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 8096 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:50:56,685 - No active profile set, falling back to default profiles: default
+2021-04-04 14:50:57,193 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:50:57,243 - Finished Spring Data repository scanning in 43 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:50:57,550 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:50:57,555 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:50:57,556 - Starting service [Tomcat]
+2021-04-04 14:50:57,556 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:50:57,626 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:50:57,626 - Root WebApplicationContext: initialization completed in 911 ms
+2021-04-04 14:50:57,699 - HikariPool-1 - Starting...
+2021-04-04 14:50:57,988 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:50:58,028 - HikariPool-1 - Start completed.
+2021-04-04 14:50:58,061 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:50:58,088 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:50:58,157 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:50:58,226 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:50:58,584 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:50:58,591 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:50:58,872 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:50:58,932 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:50:59,068 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:50:59,080 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:50:59,087 - Started SellApplication in 2.73 seconds (JVM running for 3.33)
+2021-04-04 14:51:03,551 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:51:03,551 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:51:03,552 - Completed initialization in 1 ms
+2021-04-04 14:52:57,484 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:52:57,488 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 6156 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:52:57,489 - No active profile set, falling back to default profiles: default
+2021-04-04 14:52:57,964 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:52:58,017 - Finished Spring Data repository scanning in 46 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:52:58,396 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:52:58,402 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:52:58,403 - Starting service [Tomcat]
+2021-04-04 14:52:58,403 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:52:58,476 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:52:58,476 - Root WebApplicationContext: initialization completed in 958 ms
+2021-04-04 14:52:58,557 - HikariPool-1 - Starting...
+2021-04-04 14:52:58,866 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:52:58,910 - HikariPool-1 - Start completed.
+2021-04-04 14:52:58,956 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:52:58,992 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:52:59,086 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:52:59,180 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:52:59,621 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:52:59,630 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:52:59,993 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:53:00,071 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:53:00,247 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:53:00,261 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:53:00,268 - Started SellApplication in 3.133 seconds (JVM running for 4.561)
+2021-04-04 14:53:07,299 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:53:07,300 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:53:07,300 - Completed initialization in 0 ms
+2021-04-04 14:53:16,470 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:53:16,471 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:53:16,472 - HikariPool-1 - Shutdown initiated...
+2021-04-04 14:53:16,474 - HikariPool-1 - Shutdown completed.
+2021-04-04 14:53:37,865 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:53:37,871 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 9876 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:53:37,871 - No active profile set, falling back to default profiles: default
+2021-04-04 14:53:38,426 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:53:38,480 - Finished Spring Data repository scanning in 46 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:53:38,833 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:53:38,840 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:53:38,840 - Starting service [Tomcat]
+2021-04-04 14:53:38,840 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:53:38,931 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:53:38,931 - Root WebApplicationContext: initialization completed in 1013 ms
+2021-04-04 14:53:39,009 - HikariPool-1 - Starting...
+2021-04-04 14:53:39,386 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:53:39,445 - HikariPool-1 - Start completed.
+2021-04-04 14:53:39,475 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:53:39,511 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:53:39,606 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:53:39,707 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:53:40,149 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:53:40,158 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:53:40,490 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:53:40,561 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:53:40,719 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:53:40,733 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:53:40,740 - Started SellApplication in 3.281 seconds (JVM running for 3.937)
+2021-04-04 14:53:48,529 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:53:48,529 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:53:48,530 - Completed initialization in 1 ms
+2021-04-04 14:54:05,545 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:54:05,546 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:54:05,547 - HikariPool-1 - Shutdown initiated...
+2021-04-04 14:54:05,549 - HikariPool-1 - Shutdown completed.
+2021-04-04 14:54:10,462 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:54:10,473 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 7020 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:54:10,474 - No active profile set, falling back to default profiles: default
+2021-04-04 14:54:10,975 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:54:11,034 - Finished Spring Data repository scanning in 53 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:54:11,373 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:54:11,380 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:54:11,380 - Starting service [Tomcat]
+2021-04-04 14:54:11,380 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:54:11,471 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:54:11,472 - Root WebApplicationContext: initialization completed in 963 ms
+2021-04-04 14:54:11,549 - HikariPool-1 - Starting...
+2021-04-04 14:54:11,882 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:54:11,925 - HikariPool-1 - Start completed.
+2021-04-04 14:54:11,971 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:54:12,007 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:54:12,099 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:54:12,195 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:54:12,640 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:54:12,649 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:54:12,984 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:54:13,055 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:54:13,211 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:54:13,225 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:54:13,232 - Started SellApplication in 3.168 seconds (JVM running for 3.914)
+2021-04-04 14:54:20,400 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:54:20,401 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:54:20,403 - HikariPool-1 - Shutdown initiated...
+2021-04-04 14:54:20,405 - HikariPool-1 - Shutdown completed.
+2021-04-04 14:55:01,448 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:55:01,457 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 13844 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:55:01,458 - No active profile set, falling back to default profiles: default
+2021-04-04 14:55:02,094 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:55:02,152 - Finished Spring Data repository scanning in 49 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:55:02,519 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:55:02,525 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:55:02,526 - Starting service [Tomcat]
+2021-04-04 14:55:02,526 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:55:02,615 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:55:02,615 - Root WebApplicationContext: initialization completed in 1103 ms
+2021-04-04 14:55:02,695 - HikariPool-1 - Starting...
+2021-04-04 14:55:03,040 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:55:03,125 - HikariPool-1 - Start completed.
+2021-04-04 14:55:03,155 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:55:03,191 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:55:03,284 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:55:03,374 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:55:03,814 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:55:03,823 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:55:04,151 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:55:04,220 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:55:04,374 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:55:04,388 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:55:04,395 - Started SellApplication in 3.331 seconds (JVM running for 3.992)
+2021-04-04 14:55:06,083 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:55:06,083 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:55:06,084 - Completed initialization in 1 ms
+2021-04-04 14:55:12,649 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:55:12,650 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:55:12,651 - HikariPool-1 - Shutdown initiated...
+2021-04-04 14:55:12,653 - HikariPool-1 - Shutdown completed.
+2021-04-04 14:55:57,841 - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-04 14:55:57,844 - Starting SellApplication using Java 1.8.0_131 on DESKTOP-D10RV2D with PID 14616 (D:\Projects\sell\target\classes started by Elwood in D:\Projects\sell)
+2021-04-04 14:55:57,844 - No active profile set, falling back to default profiles: default
+2021-04-04 14:55:58,343 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-04 14:55:58,391 - Finished Spring Data repository scanning in 42 ms. Found 4 JPA repository interfaces.
+2021-04-04 14:55:58,682 - Tomcat initialized with port(s): 80 (http)
+2021-04-04 14:55:58,687 - Initializing ProtocolHandler ["http-nio-80"]
+2021-04-04 14:55:58,688 - Starting service [Tomcat]
+2021-04-04 14:55:58,688 - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-04 14:55:58,758 - Initializing Spring embedded WebApplicationContext
+2021-04-04 14:55:58,758 - Root WebApplicationContext: initialization completed in 884 ms
+2021-04-04 14:55:58,832 - HikariPool-1 - Starting...
+2021-04-04 14:55:59,135 - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2021-04-04 14:55:59,181 - HikariPool-1 - Start completed.
+2021-04-04 14:55:59,206 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-04 14:55:59,233 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-04 14:55:59,304 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-04 14:55:59,375 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-04-04 14:55:59,733 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-04 14:55:59,740 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-04 14:56:00,188 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-04 14:56:00,284 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-04 14:56:00,502 - Starting ProtocolHandler ["http-nio-80"]
+2021-04-04 14:56:00,519 - Tomcat started on port(s): 80 (http) with context path '/sell'
+2021-04-04 14:56:00,529 - Started SellApplication in 3.039 seconds (JVM running for 3.738)
+2021-04-04 14:56:00,603 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-04 14:56:00,604 - Initializing Servlet 'dispatcherServlet'
+2021-04-04 14:56:00,605 - Completed initialization in 1 ms
